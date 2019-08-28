@@ -1,3 +1,7 @@
+"""
+This Program logs clients data like exercise,diet and display it time stamp when needed.
+"""
+
 
 # Health Management System
 client_list = {1:"Harry", 2:"Rohan", 3:"Hammad"}
