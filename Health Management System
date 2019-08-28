@@ -1,5 +1,5 @@
 """
-This Program logs clients data like exercise,diet and display it time stamp when needed.
+This Program logs clients data like exercise,diet and display it with time stamp when needed.
 """
 
 
