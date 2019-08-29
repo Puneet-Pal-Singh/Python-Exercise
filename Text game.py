@@ -75,3 +75,103 @@ if computer_point < human_point:
     print("you win and computer loose")
 
 print(f"your point is {human_point} and computer point is {computer_point}")
+
+
+
+#Output
+
+	::::: Snake,Water,Gun Game:::::
+ 
+
+Enter s for snake: 
+Enter w for water: 
+Enter g for gun: 
+
+Snake,Water,Gun:s
+Tie Both 0 point to each. 
+ 
+you have input wrong. 
+
+9 is left out of 10. 
+
+Snake,Water,Gun:s
+Tie Both 0 point to each. 
+ 
+you have input wrong. 
+
+8 is left out of 10. 
+
+Snake,Water,Gun:s
+your guess s and computer guess is w. 
+
+Human wins 1 point. 
+
+computer_point is 0 and your point is 1. 
+
+7 is left out of 10. 
+
+Snake,Water,Gun:s
+your guess s and computer guess is g. 
+
+computer wins 1 point 
+
+computer_point is 1 and your point is 1. 
+ 
+6 is left out of 10. 
+
+Snake,Water,Gun:w
+Tie Both 0 point to each. 
+ 
+you have input wrong. 
+
+5 is left out of 10. 
+
+Snake,Water,Gun:g
+your guess g and computer guess is s. 
+
+Human wins 1 point. 
+
+computer_point is 1 and your point is 2. 
+
+4 is left out of 10. 
+
+Snake,Water,Gun:g
+Tie Both 0 point to each. 
+ 
+you have input wrong. 
+
+3 is left out of 10. 
+
+Snake,Water,Gun:w
+your guess w and computer guess is s. 
+
+computer wins 1 point. 
+
+computer_point is 2 and your point is 2. 
+ 
+2 is left out of 10. 
+
+Snake,Water,Gun:g
+your guess g and computer guess is w. 
+
+computer wins 1 point. 
+
+computer_point is 3 and your point is 2. 
+ 
+1 is left out of 10. 
+
+Snake,Water,Gun:s
+your guess s and computer guess is w. 
+
+Human wins 1 point. 
+
+computer_point is 3 and your point is 3. 
+
+0 is left out of 10. 
+
+Game over!!!
+your point is 3 and computer point is 3.
+
+
+
+
