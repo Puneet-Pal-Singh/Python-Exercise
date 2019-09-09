@@ -7,6 +7,10 @@ Design a calculator which will correctly solve all the problems except the follo
 45*3 =555 ,56+9 =77, 56/6 =4
 The program should take operators and two numbers as input from user and then return the result.
 
+Source Code-Faulty Calculator.py
+
 Q2-Guess a number for example=18 by entering numbers from user multiple times and return specific result.
+
+Source Code-Guessing game.py
 
   
