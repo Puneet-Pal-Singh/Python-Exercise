@@ -20,4 +20,9 @@ Source Code-Health Management System.py
 Q4-Write a program and make a pattern ,ask user for number of rows and and enter his choice for pattern style(Straight or Inverted).
 
 Source Code-Pattern Print.py
-  
+
+Q5- Write a Program and make a text based game Called Snake, Water, Gun:
+Ask user Choice about his play(Snake or Water or Game) and then computer will play his game. 
+Compare both and declare the winner.
+
+Sorce Code-Text game.py
