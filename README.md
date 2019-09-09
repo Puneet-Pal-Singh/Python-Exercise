@@ -16,4 +16,8 @@ Source Code-Guessing game.py
 Q3- This Program logs clients data like exercise,diet and display it with time stamp when needed.
 
 Source Code-Health Management System.py
+
+Q4-Write a program and make a pattern ,ask user for number of rows and and enter his choice for pattern style(Straight or Inverted).
+
+Source Code-Pattern Print.py
   
